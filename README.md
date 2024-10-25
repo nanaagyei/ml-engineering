@@ -47,7 +47,7 @@ The repository will be organized into the following top-level directories:
 
 To set up this repository on your local machine, follow these steps:
 
-1. Clone the repository using `git clone https://github.com/your-username/machine-learning-journey.git`
+1. Clone the repository using `git clone https://github.com/nanaagyei/ml-engineering.git`
 2. Install required libraries using pip: `pip install -r requirements.txt` (see below for requirements)
 3. Set up a virtual environment using `conda create --name mlj_env` or `virtualenv mlj_env`
 
